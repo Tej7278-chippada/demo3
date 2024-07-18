@@ -1,7 +1,6 @@
 {
   "name": "demo3",
   "version": "0.1.0",
-  "homepage": "https://tej7278-chippada.github.io/demo3/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -13,6 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://tej7278-chippada.github.io/demo3/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
